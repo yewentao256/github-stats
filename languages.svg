@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 65.333%;
+  width: 65.376%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 18.213%;
+  width: 18.187%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 6.999%;
+  width: 6.989%;
 " class="progress-item"></span><span style="
   background-color: #3A4E3A; 
-  width: 3.392%;
+  width: 3.387%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 1.272%;
+  width: 1.271%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 1.186%;
+  width: 1.184%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.530%;
@@ -161,19 +161,19 @@ div.ellipsis {
   width: 0.489%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 0.468%;
+  width: 0.467%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.436%;
+  width: 0.437%;
 " class="progress-item"></span><span style="
   background-color: #8f14e9; 
-  width: 0.285%;
+  width: 0.289%;
 " class="progress-item"></span><span style="
   background-color: #6E4C13; 
   width: 0.213%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
-  width: 0.137%;
+  width: 0.135%;
 " class="progress-item"></span><span style="
   background-color: #4F3A4F; 
   width: 0.097%;
@@ -196,10 +196,10 @@ div.ellipsis {
   background-color: #b07219; 
   width: 0.026%;
 " class="progress-item"></span><span style="
-  background-color: #ec915c; 
+  background-color: #C1F12E; 
   width: 0.019%;
 " class="progress-item"></span><span style="
-  background-color: #C1F12E; 
+  background-color: #ec915c; 
   width: 0.019%;
 " class="progress-item"></span><span style="
   background-color: #fedf5b; 
@@ -272,7 +272,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">65.33%</span>
+  <span class="percent">65.38%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -288,7 +288,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C++</span>
-  <span class="percent">18.21%</span>
+  <span class="percent">18.19%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -304,7 +304,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">7.00%</span>
+  <span class="percent">6.99%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -352,7 +352,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">C</span>
-  <span class="percent">1.19%</span>
+  <span class="percent">1.18%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -598,22 +598,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #ec915c;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">Zig</span>
-  <span class="percent">0.02%</span>
-</li>
-<li style="animation-delay: 3450ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #C1F12E;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -624,6 +608,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Batchfile</span>
+  <span class="percent">0.02%</span>
+</li>
+<li style="animation-delay: 3450ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #ec915c;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">Zig</span>
   <span class="percent">0.02%</span>
 </li>
 <li style="animation-delay: 3600ms;">
